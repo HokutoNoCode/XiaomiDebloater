@@ -1,0 +1,447 @@
+﻿Pacchetto;Categoria;N. traccianti;Traccianti trovati nel codice;SDK pubblicitari
+com.miui.player;Sistema;25;Amazon Ads, AppLovin, Chartboost, Crashlytics, Facebook Audience Network, Facebook Login, Firebase Analytics, Fyber/DT Exchange, Google AdMob, Google UMP (consenso ads), IAB OM SDK (misurazione ads), InMobi, Mintegral, Mixpanel, Moloco, Pangle (ByteDance), PubMatic, TikTok Pixel/Events, Unity Ads, Vungle, Xiaomi Ads, Xiaomi Ads (Zeus), Xiaomi Analytics, Xiaomi Global Ads SDK, Xiaomi OneTrack, Yandex Ads, Yandex Metrica, ironSource;Amazon Ads, AppLovin, Chartboost, Facebook Audience Network, Fyber/DT Exchange, Google AdMob, InMobi, Mintegral, Moloco, Pangle (ByteDance), PubMatic, Unity Ads, Vungle, Xiaomi Ads, Xiaomi Ads (Zeus), Xiaomi Global Ads SDK, Yandex Ads, ironSource
+com.mi.globalbrowser;Sistema;23;Amazon Ads, AppLovin, Chartboost, Crashlytics, Facebook Audience Network, Facebook Login, Firebase Analytics, Fyber/DT Exchange, Google AdMob, Google UMP (consenso ads), IAB OM SDK (misurazione ads), InMobi, Mintegral, Moloco, Pangle (ByteDance), PubMatic, TikTok Pixel/Events, Unity Ads, Vungle, Xiaomi Ads (Zeus), Xiaomi Analytics, Xiaomi Global Ads SDK, Xiaomi OneTrack, Yandex Ads, Yandex Metrica, ironSource;Amazon Ads, AppLovin, Chartboost, Facebook Audience Network, Fyber/DT Exchange, Google AdMob, InMobi, Mintegral, Moloco, Pangle (ByteDance), PubMatic, Unity Ads, Vungle, Xiaomi Ads (Zeus), Xiaomi Global Ads SDK, Yandex Ads, ironSource
+com.android.thememanager;Sistema;22;Amazon Ads, AppLovin, Chartboost, Crashlytics, Facebook Audience Network, Firebase Analytics, Fyber/DT Exchange, Google AdMob, Google UMP (consenso ads), IAB OM SDK (misurazione ads), InMobi, Mintegral, Moloco, Pangle (ByteDance), PubMatic, TikTok Pixel/Events, Unity Ads, Vungle, Xiaomi Ads (Zeus), Xiaomi Analytics, Xiaomi Global Ads SDK, Xiaomi OneTrack, Yandex Ads, ironSource;Amazon Ads, AppLovin, Chartboost, Facebook Audience Network, Fyber/DT Exchange, Google AdMob, InMobi, Mintegral, Moloco, Pangle (ByteDance), PubMatic, Unity Ads, Vungle, Xiaomi Ads (Zeus), Xiaomi Global Ads SDK, Yandex Ads, ironSource
+com.mi.appfinder;Sistema;22;Amazon Ads, AppLovin, Chartboost, Crashlytics, Facebook Audience Network, Firebase Analytics, Fyber/DT Exchange, Google AdMob, Google UMP (consenso ads), IAB OM SDK (misurazione ads), InMobi, Mintegral, Moloco, Pangle (ByteDance), PubMatic, Sentry, TikTok Pixel/Events, Unity Ads, Vungle, Xiaomi Ads (Zeus), Xiaomi Global Ads SDK, Xiaomi OneTrack, Yandex Ads, ironSource;Amazon Ads, AppLovin, Chartboost, Facebook Audience Network, Fyber/DT Exchange, Google AdMob, InMobi, Mintegral, Moloco, Pangle (ByteDance), PubMatic, Unity Ads, Vungle, Xiaomi Ads (Zeus), Xiaomi Global Ads SDK, Yandex Ads, ironSource
+com.miui.videoplayer;Sistema;22;Amazon Ads, AppLovin, Chartboost, Crashlytics, Facebook Audience Network, Facebook Login, Firebase Analytics, Fyber/DT Exchange, Google AdMob, Google UMP (consenso ads), IAB OM SDK (misurazione ads), InMobi, Mintegral, Moloco, Pangle (ByteDance), PubMatic, TikTok Pixel/Events, Unity Ads, Vungle, Xiaomi Ads (Zeus), Xiaomi Global Ads SDK, Xiaomi OneTrack, Yandex Ads, Yandex Metrica, ironSource;Amazon Ads, AppLovin, Chartboost, Facebook Audience Network, Fyber/DT Exchange, Google AdMob, InMobi, Mintegral, Moloco, Pangle (ByteDance), PubMatic, Unity Ads, Vungle, Xiaomi Ads (Zeus), Xiaomi Global Ads SDK, Yandex Ads, ironSource
+com.miui.global.packageinstaller;Sistema;13;AppLovin, Crashlytics, Facebook Audience Network, Firebase Analytics, Fyber/DT Exchange, Google AdMob, Google UMP (consenso ads), IAB OM SDK (misurazione ads), Pangle (ByteDance), TikTok Pixel/Events, Xiaomi Ads (Zeus), Xiaomi Global Ads SDK, Yandex Ads, Yandex Metrica, ironSource;AppLovin, Facebook Audience Network, Fyber/DT Exchange, Google AdMob, Pangle (ByteDance), Xiaomi Ads (Zeus), Xiaomi Global Ads SDK, Yandex Ads, ironSource
+com.mi.android.globalFileexplorer;Sistema;12;Crashlytics, Facebook Audience Network, Firebase Analytics, Google AdMob, Google UMP (consenso ads), IAB OM SDK (misurazione ads), Xiaomi Ads, Xiaomi Ads (Zeus), Xiaomi Analytics, Xiaomi Global Ads SDK, Xiaomi OneTrack, Xiaomi Stat, Yandex Ads, Yandex Metrica;Facebook Audience Network, Google AdMob, Xiaomi Ads, Xiaomi Ads (Zeus), Xiaomi Global Ads SDK, Yandex Ads
+com.miui.securitycenter;Sistema;12;Crashlytics, Facebook Audience Network, Firebase Analytics, Google AdMob, IAB OM SDK (misurazione ads), Xiaomi Ads, Xiaomi Ads (Zeus), Xiaomi Analytics, Xiaomi Global Ads SDK, Xiaomi OneTrack, Xiaomi Push, Yandex Ads, Yandex Metrica;Facebook Audience Network, Google AdMob, Xiaomi Ads, Xiaomi Ads (Zeus), Xiaomi Global Ads SDK, Yandex Ads
+com.xiaomi.glgm;Sistema;12;Amazon Ads, AppLovin, Crashlytics, Facebook Login, Firebase Analytics, Fyber/DT Exchange, Google AdMob, Google UMP (consenso ads), IAB OM SDK (misurazione ads), Xiaomi Ads (Zeus), Xiaomi Global Ads SDK, Xiaomi OneTrack, Yandex Ads, Yandex Metrica, ironSource;Amazon Ads, AppLovin, Fyber/DT Exchange, Google AdMob, Xiaomi Ads (Zeus), Xiaomi Global Ads SDK, Yandex Ads, ironSource
+com.miui.cleaner;Sistema;10;Crashlytics, Facebook Audience Network, Firebase Analytics, Google AdMob, Google UMP (consenso ads), IAB OM SDK (misurazione ads), Pangle (ByteDance), Xiaomi Ads, Xiaomi Ads (Zeus), Xiaomi Global Ads SDK, Yandex Ads, Yandex Metrica;Facebook Audience Network, Google AdMob, Pangle (ByteDance), Xiaomi Ads, Xiaomi Ads (Zeus), Xiaomi Global Ads SDK, Yandex Ads
+com.mi.globalminusscreen;Sistema;9;Crashlytics, Firebase Analytics, Google AdMob, Google UMP (consenso ads), IAB OM SDK (misurazione ads), Pangle (ByteDance), Sentry, TikTok Pixel/Events, Xiaomi Ads (Zeus), Xiaomi Global Ads SDK, Xiaomi OneTrack;Google AdMob, Pangle (ByteDance), Xiaomi Ads (Zeus), Xiaomi Global Ads SDK
+com.android.providers.downloads.ui;Sistema;7;Crashlytics, Facebook Audience Network, Firebase Analytics, Google AdMob, Google UMP (consenso ads), IAB OM SDK (misurazione ads), Xiaomi Ads, Xiaomi Ads (Zeus), Xiaomi Global Ads SDK;Facebook Audience Network, Google AdMob, Xiaomi Ads, Xiaomi Ads (Zeus), Xiaomi Global Ads SDK
+com.miui.msa.global;Sistema;7;Crashlytics, Firebase Analytics, Google AdMob, Google UMP (consenso ads), Xiaomi Ads, Xiaomi Ads (Zeus), Xiaomi Analytics, Xiaomi OneTrack;Google AdMob, Xiaomi Ads, Xiaomi Ads (Zeus)
+com.android.mms;Sistema;5;Crashlytics, Firebase Analytics, Xiaomi Ads (Zeus), Xiaomi Global Ads SDK, Xiaomi Push;Xiaomi Ads (Zeus), Xiaomi Global Ads SDK
+com.milink.service;Sistema;5;Facebook Login, Firebase Analytics, Google AdMob, Xiaomi Analytics, Xiaomi OneTrack, Xiaomi Push;Google AdMob
+com.miui.bugreport;Sistema;5;Facebook Login, Firebase Analytics, Google AdMob, Xiaomi Analytics, Xiaomi OneTrack, Xiaomi Push;Google AdMob
+com.miui.gallery;Sistema;5;Crashlytics, Facebook Login, Firebase Analytics, Google AdMob, Xiaomi OneTrack, Xiaomi Push;Google AdMob
+com.xiaomi.finddevice;Sistema;5;Firebase Analytics, Google AdMob, Xiaomi Analytics, Xiaomi OneTrack, Xiaomi Push;Google AdMob
+com.xiaomi.mipicks;Sistema;5;Crashlytics, Facebook Login, Firebase Analytics, Google AdMob, Google UMP (consenso ads), Xiaomi Analytics, Xiaomi OneTrack;Google AdMob
+com.android.camera;Sistema;4;Crashlytics, Firebase Analytics, Google AdMob, Xiaomi OneTrack;Google AdMob
+com.google.android.gms;Sistema;4;Firebase Analytics, Google AdMob, Google Analytics, Google Tag Manager;Google AdMob
+com.miui.extraphoto;Sistema;4;Crashlytics, Firebase Analytics, Google AdMob, Xiaomi OneTrack;Google AdMob
+com.miui.home;Sistema;4;Crashlytics, Firebase Analytics, Xiaomi Analytics, Xiaomi OneTrack;
+com.miui.securityadd;Sistema;4;Crashlytics, Firebase Analytics, Google AdMob, Xiaomi Analytics;Google AdMob
+com.xiaomi.account;Sistema;4;Facebook Analytics, Facebook Login, Firebase Analytics, Xiaomi Analytics, Xiaomi OneTrack;
+com.xiaomi.aicr;Sistema;3;Xiaomi Analytics, Xiaomi OneTrack, Xiaomi Push;
+com.xiaomi.xmsf;Sistema;3;Crashlytics, Firebase Analytics, Xiaomi Push;
+com.android.htmlviewer;Sistema;2;Xiaomi Analytics, Xiaomi OneTrack;
+com.android.intentresolver;Sistema;2;Xiaomi Analytics, Xiaomi OneTrack;
+com.android.phone;Sistema;2;Xiaomi Analytics, Xiaomi OneTrack;
+com.android.systemui;Sistema;2;Xiaomi Analytics, Xiaomi OneTrack;
+com.android.vending;Sistema;2;Firebase Analytics, Google AdMob;Google AdMob
+com.dti.aone;Sistema;2;Crashlytics, Firebase Analytics;
+com.dti.millicom;Sistema;2;Crashlytics, Firebase Analytics;
+com.google.android.devicelockcontroller;Sistema;2;Firebase Analytics, Google AdMob;Google AdMob
+com.miui.aod;Sistema;2;Xiaomi Analytics, Xiaomi OneTrack;
+com.miui.daemon;Sistema;2;Xiaomi Analytics, Xiaomi OneTrack;
+com.miui.euicc;Sistema;2;Firebase Analytics, Xiaomi OneTrack;
+com.miui.guardprovider;Sistema;2;Crashlytics, Firebase Analytics;
+com.miui.misightservice;Sistema;2;Xiaomi Analytics, Xiaomi OneTrack;
+com.miui.miwallpaper;Sistema;2;Xiaomi Analytics, Xiaomi OneTrack;
+com.miui.powerkeeper;Sistema;2;Xiaomi Analytics, Xiaomi OneTrack;
+com.miui.thirdappassistant;Sistema;2;Xiaomi OneTrack, Xiaomi Push;
+com.qualcomm.location;Sistema;2;Xiaomi Analytics, Xiaomi OneTrack;
+com.xiaomi.aiasst.vision;Sistema;2;Xiaomi Analytics, Xiaomi OneTrack;
+com.xiaomi.discover;Sistema;2;Crashlytics, Firebase Analytics;
+com.xiaomi.hypercomm;Sistema;2;Xiaomi Analytics, Xiaomi OneTrack;
+com.xiaomi.incallui;Sistema;2;Xiaomi Analytics, Xiaomi OneTrack;
+com.xiaomi.joyose;Sistema;2;Xiaomi Analytics, Xiaomi OneTrack;
+com.xiaomi.payment;Sistema;2;Facebook Login, Xiaomi OneTrack, Xiaomi Stat;
+com.xiaomi.simactivate.service;Sistema;2;Facebook Login, Xiaomi Analytics, Xiaomi OneTrack;
+com.android.bluetooth;Sistema;1;Xiaomi OneTrack;
+com.android.imsserviceentitlement;Sistema;1;Firebase Analytics;
+com.google.android.apps.maps;Sistema;1;Firebase Analytics;
+com.google.android.apps.photos;Sistema;1;Firebase Analytics;
+com.google.android.apps.subscriptions.red;Sistema;1;Firebase Analytics;
+com.google.android.apps.youtube.music;Sistema;1;Firebase Analytics;
+com.google.android.euicc;Sistema;1;Firebase Analytics;
+com.google.android.googlequicksearchbox;Sistema;1;Firebase Analytics;
+com.google.android.onetimeinitializer;Sistema;1;Google AdMob;Google AdMob
+com.google.android.projection.gearhead;Sistema;1;Google Analytics;
+com.google.android.videos;Sistema;1;Firebase Analytics;
+com.google.android.youtube;Sistema;1;Firebase Analytics;
+com.microsoft.appmanager;Sistema;1;MS App Center;
+com.miui.accessibility;Sistema;1;Xiaomi OneTrack;
+com.miui.analytics;Sistema;1;Xiaomi Analytics;
+com.miui.cloudbackup;Sistema;1;Xiaomi Analytics;
+com.miui.mediaviewer;Sistema;1;Xiaomi OneTrack;
+com.miui.notification;Sistema;1;Xiaomi OneTrack;
+com.miui.screenshot;Sistema;1;Xiaomi OneTrack;
+com.miui.securitycore;Sistema;1;Xiaomi Analytics;
+com.xiaomi.aiservice;Sistema;1;Xiaomi OneTrack;
+com.xiaomi.bluetooth;Sistema;1;Xiaomi OneTrack;
+com.xiaomi.cameramind;Sistema;1;Xiaomi Analytics;
+com.xiaomi.mi_connect_service;Sistema;1;Xiaomi OneTrack;
+com.xiaomi.mirror;Sistema;1;Facebook Login, Xiaomi OneTrack;
+com.xiaomi.misettings;Sistema;1;Xiaomi OneTrack;
+com.xiaomi.phone;Sistema;1;Xiaomi OneTrack;
+miui.systemui.plugin;Sistema;1;Xiaomi OneTrack;
+android;Sistema;0;;
+android.aosp.overlay;Sistema;0;;
+android.aosp.overlay.telephony;Sistema;0;;
+android.auto_generated_characteristics_rro;Sistema;0;;
+android.autoinstalls.config.Xiaomi.model;Sistema;0;;
+android.miui.home.launcher.res;Sistema;0;;
+android.miui.overlay;Sistema;0;;
+android.miui.overlay.telephony;Sistema;0;;
+android.overlay.common;Sistema;0;;
+android.overlay.target;Sistema;0;;
+android.qvaoverlay.common;Sistema;0;;
+com.android.DeviceAsWebcam;Sistema;0;;
+com.android.apps.tag;Sistema;0;;
+com.android.avatarpicker;Sistema;0;;
+com.android.backupconfirm;Sistema;0;;
+com.android.bips;Sistema;0;;
+com.android.bluetooth.overlay;Sistema;0;;
+com.android.bluetoothmidiservice;Sistema;0;;
+com.android.bookmarkprovider;Sistema;0;;
+com.android.calllogbackup;Sistema;0;;
+com.android.cameraextensions;Sistema;0;;
+com.android.carrierconfig;Sistema;0;;
+com.android.carrierconfig.overlay.common;Sistema;0;;
+com.android.carrierconfig.overlay.miui;Sistema;0;;
+com.android.carrierdefaultapp;Sistema;0;;
+com.android.cellbroadcastreceiver;Sistema;0;;
+com.android.cellbroadcastreceiver.overlay.common;Sistema;0;;
+com.android.certinstaller;Sistema;0;;
+com.android.chrome;Sistema;0;;
+com.android.companiondevicemanager;Sistema;0;;
+com.android.companiondevicemanager.auto_generated_characteristics_rro;Sistema;0;;
+com.android.compos.payload;Sistema;0;;
+com.android.credentialmanager;Sistema;0;;
+com.android.cts.ctsshim;Sistema;0;;
+com.android.cts.priv.ctsshim;Sistema;0;;
+com.android.devicediagnostics;Sistema;0;;
+com.android.dreams.basic;Sistema;0;;
+com.android.dreams.phototable;Sistema;0;;
+com.android.dynsystem;Sistema;0;;
+com.android.egg;Sistema;0;;
+com.android.emergency;Sistema;0;;
+com.android.externalstorage;Sistema;0;;
+com.android.hotwordenrollment.okgoogle;Sistema;0;;
+com.android.hotwordenrollment.xgoogle;Sistema;0;;
+com.android.inputdevices;Sistema;0;;
+com.android.inputsettings.overlay.miui;Sistema;0;;
+com.android.internal.display.cutout.emulation.corner;Sistema;0;;
+com.android.internal.display.cutout.emulation.double;Sistema;0;;
+com.android.internal.display.cutout.emulation.hole;Sistema;0;;
+com.android.internal.display.cutout.emulation.tall;Sistema;0;;
+com.android.internal.display.cutout.emulation.waterfall;Sistema;0;;
+com.android.internal.systemui.navbar.gestural;Sistema;0;;
+com.android.internal.systemui.navbar.threebutton;Sistema;0;;
+com.android.internal.systemui.navbar.transparent;Sistema;0;;
+com.android.keychain;Sistema;0;;
+com.android.localtransport;Sistema;0;;
+com.android.location.fused;Sistema;0;;
+com.android.managedprovisioning;Sistema;0;;
+com.android.managedprovisioning.overlay;Sistema;0;;
+com.android.microdroid.empty_payload;Sistema;0;;
+com.android.mms.service;Sistema;0;;
+com.android.mtp;Sistema;0;;
+com.android.musicfx;Sistema;0;;
+com.android.ncm.overlay.common;Sistema;0;;
+com.android.networkstack.overlay.miui;Sistema;0;;
+com.android.nfc;Sistema;0;;
+com.android.nfc.resources.overlay.common;Sistema;0;;
+com.android.ons;Sistema;0;;
+com.android.overlay.circletosearch;Sistema;0;;
+com.android.overlay.gmscontactprovider;Sistema;0;;
+com.android.overlay.gmssettingprovider;Sistema;0;;
+com.android.overlay.gmssettings;Sistema;0;;
+com.android.overlay.gmstelecomm;Sistema;0;;
+com.android.overlay.gmstelephony;Sistema;0;;
+com.android.overlay.systemui;Sistema;0;;
+com.android.pacprocessor;Sistema;0;;
+com.android.phone.auto_generated_characteristics_rro;Sistema;0;;
+com.android.phone.cust.overlay.miui;Sistema;0;;
+com.android.phone.overlay.common;Sistema;0;;
+com.android.phone.overlay.miui;Sistema;0;;
+com.android.printspooler;Sistema;0;;
+com.android.providers.blockednumber;Sistema;0;;
+com.android.providers.calendar;Sistema;0;;
+com.android.providers.contactkeys;Sistema;0;;
+com.android.providers.contacts;Sistema;0;;
+com.android.providers.downloads;Sistema;0;;
+com.android.providers.media;Sistema;0;;
+com.android.providers.partnerbookmarks;Sistema;0;;
+com.android.providers.settings;Sistema;0;;
+com.android.providers.settings.overlay;Sistema;0;;
+com.android.providers.telephony;Sistema;0;;
+com.android.providers.telephony.auto_generated_characteristics_rro;Sistema;0;;
+com.android.providers.telephony.overlay.miui;Sistema;0;;
+com.android.providers.userdictionary;Sistema;0;;
+com.android.provision;Sistema;0;;
+com.android.provision.esim.transfer.overlay;Sistema;0;;
+com.android.proxyhandler;Sistema;0;;
+com.android.role.notes.enabled;Sistema;0;;
+com.android.se;Sistema;0;;
+com.android.se.overlay.target;Sistema;0;;
+com.android.server.telecom;Sistema;0;;
+com.android.server.telecom.overlay.common;Sistema;0;;
+com.android.server.telecom.overlay.miui;Sistema;0;;
+com.android.settings;Sistema;0;;
+com.android.settings.intelligence;Sistema;0;;
+com.android.settings.overlay.common;Sistema;0;;
+com.android.settings.overlay.miui;Sistema;0;;
+com.android.sharedstoragebackup;Sistema;0;;
+com.android.shell;Sistema;0;;
+com.android.simappdialog;Sistema;0;;
+com.android.smspush;Sistema;0;;
+com.android.soundpicker;Sistema;0;;
+com.android.statementservice;Sistema;0;;
+com.android.stk;Sistema;0;;
+com.android.stk.overlay.miui;Sistema;0;;
+com.android.storagemanager;Sistema;0;;
+com.android.systemui.accessibility.accessibilitymenu;Sistema;0;;
+com.android.systemui.gesture.line.overlay;Sistema;0;;
+com.android.systemui.navigation.bar.overlay;Sistema;0;;
+com.android.systemui.overlay.common;Sistema;0;;
+com.android.systemui.overlay.miui;Sistema;0;;
+com.android.theme.font.notoserifsource;Sistema;0;;
+com.android.thememanager.customizethemeconfig.config.overlay;Sistema;0;;
+com.android.traceur;Sistema;0;;
+com.android.updater;Sistema;0;;
+com.android.uwb.resources.overlay.common;Sistema;0;;
+com.android.virtualization.terminal;Sistema;0;;
+com.android.virtualmachine.res;Sistema;0;;
+com.android.vpndialogs;Sistema;0;;
+com.android.wallpaper.livepicker;Sistema;0;;
+com.android.wallpaperbackup;Sistema;0;;
+com.android.wallpapercropper;Sistema;0;;
+com.android.wifi.dialog;Sistema;0;;
+com.android.wifi.resources.overlay.common;Sistema;0;;
+com.android.wifi.resources.overlay.target;Sistema;0;;
+com.android.wifi.resources.xiaomi;Sistema;0;;
+com.bsp.catchlog;Sistema;0;;
+com.facebook.appmanager;Sistema;0;;
+com.facebook.services;Sistema;0;;
+com.facebook.system;Sistema;0;;
+com.goodix.fingerprint.setting;Sistema;0;;
+com.google.ambient.streaming;Sistema;0;;
+com.google.android.accessibility.switchaccess;Sistema;0;;
+com.google.android.adservices.api;Sistema;0;;
+com.google.android.apps.bard;Sistema;0;;
+com.google.android.apps.docs;Sistema;0;;
+com.google.android.apps.messaging;Sistema;0;;
+com.google.android.apps.restore;Sistema;0;;
+com.google.android.apps.safetyhub;Sistema;0;;
+com.google.android.apps.tachyon;Sistema;0;;
+com.google.android.apps.wellbeing;Sistema;0;;
+com.google.android.appsearch.apk;Sistema;0;;
+com.google.android.as;Sistema;0;;
+com.google.android.as.oss;Sistema;0;;
+com.google.android.captiveportallogin;Sistema;0;;
+com.google.android.cellbroadcastreceiver;Sistema;0;;
+com.google.android.cellbroadcastreceiver.overlay.miui;Sistema;0;;
+com.google.android.cellbroadcastservice;Sistema;0;;
+com.google.android.cellbroadcastservice.overlay.miui;Sistema;0;;
+com.google.android.configupdater;Sistema;0;;
+com.google.android.connectivity.resources;Sistema;0;;
+com.google.android.contacts;Sistema;0;;
+com.google.android.dialer;Sistema;0;;
+com.google.android.documentsui;Sistema;0;;
+com.google.android.ext.services;Sistema;0;;
+com.google.android.ext.shared;Sistema;0;;
+com.google.android.federatedcompute;Sistema;0;;
+com.google.android.feedback;Sistema;0;;
+com.google.android.gm;Sistema;0;;
+com.google.android.gms.location.history;Sistema;0;;
+com.google.android.gms.supervision;Sistema;0;;
+com.google.android.gsf;Sistema;0;;
+com.google.android.health.connect.backuprestore;Sistema;0;;
+com.google.android.healthconnect.controller;Sistema;0;;
+com.google.android.hotspot2.osulogin;Sistema;0;;
+com.google.android.inputmethod.latin;Sistema;0;;
+com.google.android.marvin.talkback;Sistema;0;;
+com.google.android.modulemetadata;Sistema;0;;
+com.google.android.ncm.overlay.common;Sistema;0;;
+com.google.android.networkstack;Sistema;0;;
+com.google.android.networkstack.tethering;Sistema;0;;
+com.google.android.ondevicepersonalization.services;Sistema;0;;
+com.google.android.overlay.devicelockcontroller;Sistema;0;;
+com.google.android.overlay.gmsconfig.asi;Sistema;0;;
+com.google.android.overlay.gmsconfig.common;Sistema;0;;
+com.google.android.overlay.gmsconfig.comms;Sistema;0;;
+com.google.android.overlay.gmsconfig.geotz;Sistema;0;;
+com.google.android.overlay.gmsconfig.gsa;Sistema;0;;
+com.google.android.overlay.gmsconfig.personalsafety;Sistema;0;;
+com.google.android.overlay.gmsconfig.photos;Sistema;0;;
+com.google.android.overlay.modules.captiveportallogin.forframework;Sistema;0;;
+com.google.android.overlay.modules.documentsui;Sistema;0;;
+com.google.android.overlay.modules.ext.services;Sistema;0;;
+com.google.android.overlay.modules.healthfitness.forframework;Sistema;0;;
+com.google.android.overlay.modules.modulemetadata.forframework;Sistema;0;;
+com.google.android.overlay.modules.permissioncontroller;Sistema;0;;
+com.google.android.overlay.modules.permissioncontroller.forframework;Sistema;0;;
+com.google.android.packageinstaller;Sistema;0;;
+com.google.android.partnersetup;Sistema;0;;
+com.google.android.permissioncontroller;Sistema;0;;
+com.google.android.photopicker;Sistema;0;;
+com.google.android.printservice.recommendation;Sistema;0;;
+com.google.android.providers.media.module;Sistema;0;;
+com.google.android.rkpdapp;Sistema;0;;
+com.google.android.safetycenter.resources;Sistema;0;;
+com.google.android.sdksandbox;Sistema;0;;
+com.google.android.server.deviceconfig.resources;Sistema;0;;
+com.google.android.setupwizard;Sistema;0;;
+com.google.android.syncadapters.calendar;Sistema;0;;
+com.google.android.tts;Sistema;0;;
+com.google.android.uwb.resources;Sistema;0;;
+com.google.android.uwb.resources.overlay.common;Sistema;0;;
+com.google.android.webview;Sistema;0;;
+com.google.android.wifi.dialog;Sistema;0;;
+com.google.android.wifi.resources;Sistema;0;;
+com.google.android.wifi.resources.overlay.common;Sistema;0;;
+com.google.android.wifi.resources.overlay.target;Sistema;0;;
+com.google.android.wifi.resources.xiaomi;Sistema;0;;
+com.google.mainline.adservices;Sistema;0;;
+com.google.mainline.telemetry;Sistema;0;;
+com.jiiov.fingerprint_factorytest;Sistema;0;;
+com.lbe.security.miui;Sistema;0;;
+com.mi.globallayout;Sistema;0;;
+com.mi.healthglobal;Sistema;0;;
+com.microsoft.deviceintegrationservice;Sistema;0;;
+com.microsoftsdk.crossdeviceservicebroker;Sistema;0;;
+com.miui.audiomonitor;Sistema;0;;
+com.miui.autoui.ext;Sistema;0;;
+com.miui.backup;Sistema;0;;
+com.miui.cit;Sistema;0;;
+com.miui.cloudservice;Sistema;0;;
+com.miui.core;Sistema;0;;
+com.miui.core.internal.services;Sistema;0;;
+com.miui.cotaservice;Sistema;0;;
+com.miui.micloudsync;Sistema;0;;
+com.miui.miservice;Sistema;0;;
+com.miui.mishare.connectivity;Sistema;0;;
+com.miui.misound;Sistema;0;;
+com.miui.miwallpaper.config.overlay;Sistema;0;;
+com.miui.miwallpaper.overlay;Sistema;0;;
+com.miui.miwallpaper.overlay.customize;Sistema;0;;
+com.miui.permissioncontroller.overlay;Sistema;0;;
+com.miui.phone.carriers.overlay.h3g;Sistema;0;;
+com.miui.phone.carriers.overlay.vodafone;Sistema;0;;
+com.miui.phrase;Sistema;0;;
+com.miui.qr;Sistema;0;;
+com.miui.rom;Sistema;0;;
+com.miui.settings.rro.device.config.overlay;Sistema;0;;
+com.miui.settings.rro.device.hide.statusbar.overlay;Sistema;0;;
+com.miui.settings.rro.device.systemui.overlay;Sistema;0;;
+com.miui.settings.rro.device.type.overlay;Sistema;0;;
+com.miui.system;Sistema;0;;
+com.miui.system.overlay;Sistema;0;;
+com.miui.systemui.carriers.overlay;Sistema;0;;
+com.miui.systemui.devices.overlay;Sistema;0;;
+com.miui.systemui.overlay.devices.android;Sistema;0;;
+com.miui.touchassistant;Sistema;0;;
+com.miui.vsimcore;Sistema;0;;
+com.miui.wallpaper.overlay;Sistema;0;;
+com.miui.wallpaper.overlay.customize;Sistema;0;;
+com.miui.yellowpage;Sistema;0;;
+com.miuix.editor;Sistema;0;;
+com.qti.dcf;Sistema;0;;
+com.qti.dpmserviceapp;Sistema;0;;
+com.qti.ltebc;Sistema;0;;
+com.qti.phone;Sistema;0;;
+com.qti.qcc;Sistema;0;;
+com.qti.qualcomm.datastatusnotification;Sistema;0;;
+com.qti.qualcomm.deviceinfo;Sistema;0;;
+com.qti.service.colorservice;Sistema;0;;
+com.qti.xdivert;Sistema;0;;
+com.qualcomm.atfwd;Sistema;0;;
+com.qualcomm.atfwd2;Sistema;0;;
+com.qualcomm.qcrilmsgtunnel;Sistema;0;;
+com.qualcomm.qti.cne;Sistema;0;;
+com.qualcomm.qti.confdialer;Sistema;0;;
+com.qualcomm.qti.devicestatisticsservice;Sistema;0;;
+com.qualcomm.qti.dynamicddsservice;Sistema;0;;
+com.qualcomm.qti.ims;Sistema;0;;
+com.qualcomm.qti.poweroffalarm;Sistema;0;;
+com.qualcomm.qti.powersavemode;Sistema;0;;
+com.qualcomm.qti.qcolor;Sistema;0;;
+com.qualcomm.qti.qms.service.connectionsecurity;Sistema;0;;
+com.qualcomm.qti.qms.service.trustzoneaccess;Sistema;0;;
+com.qualcomm.qti.remoteSimlockAuth;Sistema;0;;
+com.qualcomm.qti.ridemodeaudio;Sistema;0;;
+com.qualcomm.qti.server.qtiwifi;Sistema;0;;
+com.qualcomm.qti.server.wigig.tethering.rro;Sistema;0;;
+com.qualcomm.qti.services.systemhelper;Sistema;0;;
+com.qualcomm.qti.simcontacts;Sistema;0;;
+com.qualcomm.qti.telephonyservice;Sistema;0;;
+com.qualcomm.qti.uceShimService;Sistema;0;;
+com.qualcomm.qti.uim;Sistema;0;;
+com.qualcomm.qti.uimGbaApp;Sistema;0;;
+com.qualcomm.qti.workloadclassifier;Sistema;0;;
+com.qualcomm.qti.xrcb;Sistema;0;;
+com.qualcomm.qti.xrvd.service;Sistema;0;;
+com.qualcomm.qti.xrwifi;Sistema;0;;
+com.qualcomm.qtil.aptxacu;Sistema;0;;
+com.qualcomm.timeservice;Sistema;0;;
+com.qualcomm.uimremoteclient;Sistema;0;;
+com.qualcomm.uimremoteserver;Sistema;0;;
+com.qualcomm.wfd.service;Sistema;0;;
+com.rongcard.eid;Sistema;0;;
+com.st.android.nfc_extensions_16;Sistema;0;;
+com.tencent.soter.soterserver;Sistema;0;;
+com.wdstechnology.android.kryten;Sistema;0;;
+com.xiaomi.aon;Sistema;0;;
+com.xiaomi.barrage;Sistema;0;;
+com.xiaomi.bluetooth.rro.device.config.overlay;Sistema;0;;
+com.xiaomi.cameratools;Sistema;0;;
+com.xiaomi.continuity.sdkapp;Sistema;0;;
+com.xiaomi.entitlement.o2;Sistema;0;;
+com.xiaomi.micloud.sdk;Sistema;0;;
+com.xiaomi.mtb;Sistema;0;;
+com.xiaomi.phone.overlay;Sistema;0;;
+com.xiaomi.touchservice;Sistema;0;;
+com.xiaomi.trustservice;Sistema;0;;
+com.xiaomi.ugd;Sistema;0;;
+com.xiaomi.xmsfkeeper;Sistema;0;;
+org.codeaurora.ims;Sistema;0;;
+org.ifaa.aidl.manager;Sistema;0;;
+vendor.qti.bluetooth.xpan;Sistema;0;;
+vendor.qti.data.ntnsatapp;Sistema;0;;
+vendor.qti.data.txpwradmin;Sistema;0;;
+vendor.qti.frameworks.utils;Sistema;0;;
+vendor.qti.hardware.cacert.server;Sistema;0;;
+vendor.qti.imsdatachannel;Sistema;0;;
+vendor.qti.iwlan;Sistema;0;;
+com.oakever.tiletrip;Preinstallata (rimovibile);22;Amazon Ads, AppLovin, AppsFlyer, Chartboost, Crashlytics, Facebook Analytics, Facebook Audience Network, Facebook Login, Firebase Analytics, Fyber/DT Exchange, Google AdMob, Google UMP (consenso ads), IAB OM SDK (misurazione ads), InMobi, Mintegral, Moloco, Ogury, Pangle (ByteDance), PubMatic, Smaato, Unity Ads, Vungle, Yandex Ads, Yandex Metrica, ironSource;Amazon Ads, AppLovin, Chartboost, Facebook Audience Network, Fyber/DT Exchange, Google AdMob, InMobi, Mintegral, Moloco, Ogury, Pangle (ByteDance), PubMatic, Smaato, Unity Ads, Vungle, Yandex Ads, ironSource
+com.vitastudio.mahjong;Preinstallata (rimovibile);22;Amazon Ads, AppLovin, AppsFlyer, Chartboost, Crashlytics, Facebook Analytics, Facebook Audience Network, Facebook Login, Firebase Analytics, Fyber/DT Exchange, Google AdMob, Google UMP (consenso ads), IAB OM SDK (misurazione ads), InMobi, Mintegral, Moloco, Pangle (ByteDance), PubMatic, Smaato, TikTok Pixel/Events, Unity Ads, Vungle, Yandex Ads, Yandex Metrica, ironSource;Amazon Ads, AppLovin, Chartboost, Facebook Audience Network, Fyber/DT Exchange, Google AdMob, InMobi, Mintegral, Moloco, Pangle (ByteDance), PubMatic, Smaato, Unity Ads, Vungle, Yandex Ads, ironSource
+com.sukhavati.gotoplaying.bubble.BubbleShooter.mint;Preinstallata (rimovibile);21;Adjust, Amazon Ads, AppLovin, Chartboost, Crashlytics, Facebook Analytics, Facebook Audience Network, Facebook Login, Firebase Analytics, Fyber/DT Exchange, Google AdMob, Google UMP (consenso ads), IAB OM SDK (misurazione ads), InMobi, Mintegral, Moloco, Ogury, Pangle (ByteDance), Smaato, Unity Ads, Vungle, Yandex Ads, Yandex Metrica, ironSource;Amazon Ads, AppLovin, Chartboost, Facebook Audience Network, Fyber/DT Exchange, Google AdMob, InMobi, Mintegral, Moloco, Ogury, Pangle (ByteDance), Smaato, Unity Ads, Vungle, Yandex Ads, ironSource
+com.xiaomi.midrop;Preinstallata (rimovibile);21;Amazon Ads, AppLovin, Chartboost, Crashlytics, Facebook Audience Network, Firebase Analytics, Fyber/DT Exchange, Google AdMob, Google UMP (consenso ads), IAB OM SDK (misurazione ads), InMobi, Mintegral, Moloco, Pangle (ByteDance), PubMatic, TikTok Pixel/Events, Unity Ads, Vungle, Xiaomi Ads (Zeus), Xiaomi Global Ads SDK, Xiaomi OneTrack, Yandex Ads, ironSource;Amazon Ads, AppLovin, Chartboost, Facebook Audience Network, Fyber/DT Exchange, Google AdMob, InMobi, Mintegral, Moloco, Pangle (ByteDance), PubMatic, Unity Ads, Vungle, Xiaomi Ads (Zeus), Xiaomi Global Ads SDK, Yandex Ads, ironSource
+com.ordinaryjoy.woodblast;Preinstallata (rimovibile);19;Adjust, Amazon Ads, AppLovin, Chartboost, Crashlytics, Facebook Audience Network, Firebase Analytics, Fyber/DT Exchange, Google AdMob, Google UMP (consenso ads), IAB OM SDK (misurazione ads), InMobi, Mintegral, Moloco, Pangle (ByteDance), TikTok Pixel/Events, Unity Ads, Vungle, Yandex Ads, Yandex Metrica, ironSource;Amazon Ads, AppLovin, Chartboost, Facebook Audience Network, Fyber/DT Exchange, Google AdMob, InMobi, Mintegral, Moloco, Pangle (ByteDance), Unity Ads, Vungle, Yandex Ads, ironSource
+com.block.juggle;Preinstallata (rimovibile);18;Amazon Ads, AppLovin, AppsFlyer, Bugsnag, Facebook Analytics, Facebook Audience Network, Facebook Login, Firebase Analytics, Fyber/DT Exchange, Google AdMob, Google UMP (consenso ads), IAB OM SDK (misurazione ads), InMobi, Mintegral, Moloco, Pangle (ByteDance), PubMatic, TikTok Pixel/Events, Unity Ads, Vungle, ironSource;Amazon Ads, AppLovin, Facebook Audience Network, Fyber/DT Exchange, Google AdMob, InMobi, Mintegral, Moloco, Pangle (ByteDance), PubMatic, Unity Ads, Vungle, ironSource
+com.mintgames.wordtrip;Preinstallata (rimovibile);17;Adjust, Amazon Ads, AppLovin, Crashlytics, Facebook Analytics, Facebook Audience Network, Facebook Login, Firebase Analytics, Fyber/DT Exchange, Google AdMob, Google UMP (consenso ads), IAB OM SDK (misurazione ads), InMobi, Mintegral, Pangle (ByteDance), Unity Ads, Vungle, Yandex Ads, Yandex Metrica, ironSource;Amazon Ads, AppLovin, Facebook Audience Network, Fyber/DT Exchange, Google AdMob, InMobi, Mintegral, Pangle (ByteDance), Unity Ads, Vungle, Yandex Ads, ironSource
+cn.wps.moffice_eng;Preinstallata (rimovibile);16;Amazon Ads, AppLovin, AppsFlyer, Crashlytics, Facebook Audience Network, Facebook Login, Firebase Analytics, Google AdMob, Google Analytics, Google Tag Manager, Google UMP (consenso ads), IAB OM SDK (misurazione ads), Pangle (ByteDance), Umeng, Unity Ads, Xiaomi Ads, Xiaomi Ads (Zeus), Xiaomi Global Ads SDK, ironSource;Amazon Ads, AppLovin, Facebook Audience Network, Google AdMob, Pangle (ByteDance), Unity Ads, Xiaomi Ads, Xiaomi Ads (Zeus), Xiaomi Global Ads SDK, ironSource
+com.mi.global.shop;Preinstallata (rimovibile);9;Adjust, Crashlytics, Facebook Analytics, Facebook Login, Firebase Analytics, Google AdMob, Google Analytics, Google Tag Manager, Mixpanel, Xiaomi OneTrack;Google AdMob
+com.xiaomi.smarthome;Preinstallata (rimovibile);7;Facebook Analytics, Facebook Login, Firebase Analytics, Google AdMob, Mixpanel, Tencent Bugly, Xiaomi OneTrack, Xiaomi Push;Google AdMob
+com.miui.android.fashiongallery;Preinstallata (rimovibile);6;Crashlytics, Firebase Analytics, Google AdMob, Google UMP (consenso ads), IAB OM SDK (misurazione ads), InMobi, Xiaomi Analytics, Xiaomi OneTrack;Google AdMob, InMobi
+com.amazon.mp3;Preinstallata (rimovibile);5;Amazon Ads, Branch, Bugsnag, Firebase Analytics, Google AdMob;Amazon Ads, Google AdMob
+com.booking;Preinstallata (rimovibile);5;AppsFlyer, Crashlytics, Firebase Analytics, Google AdMob, Google Tag Manager, OneTrust (consenso);Google AdMob
+com.linkedin.android;Preinstallata (rimovibile);5;Facebook Analytics, Facebook Login, Firebase Analytics, Google AdMob, MS App Center, Qualtrics;Google AdMob
+com.spotify.music;Preinstallata (rimovibile);5;Branch, Crashlytics, Firebase Analytics, Google AdMob, comScore;Google AdMob
+com.microsoft.copilot;Preinstallata (rimovibile);4;Adjust, Google AdMob, MS App Center, Sentry;Google AdMob
+com.miui.huanji;Preinstallata (rimovibile);4;Crashlytics, Firebase Analytics, Google AdMob, Xiaomi OneTrack;Google AdMob
+com.zhiliaoapp.musically;Preinstallata (rimovibile);4;AppsFlyer, Facebook Analytics, Facebook Login, Firebase Analytics, Google AdMob, IAB OM SDK (misurazione ads);Google AdMob
+cn.wps.xiaomi.abroad.lite;Preinstallata (rimovibile);3;Crashlytics, Firebase Analytics, Google AdMob;Google AdMob
+com.amazon.mShop.android.shopping;Preinstallata (rimovibile);3;Amazon Ads, Firebase Analytics, Google AdMob;Amazon Ads, Google AdMob
+com.einnovation.temu;Preinstallata (rimovibile);3;Adjust, Facebook Login, Firebase Analytics, Google AdMob;Google AdMob
+com.mi.global.bbs;Preinstallata (rimovibile);3;Crashlytics, Facebook Analytics, Facebook Login, Firebase Analytics;
+com.miui.mediaeditor;Preinstallata (rimovibile);3;Crashlytics, Firebase Analytics, Xiaomi OneTrack;
+com.alibaba.aliexpresshd;Preinstallata (rimovibile);2;Facebook Analytics, Facebook Login, Firebase Analytics;
+com.android.deskclock;Preinstallata (rimovibile);2;Xiaomi Analytics, Xiaomi OneTrack;
+com.duokan.phone.remotecontroller;Preinstallata (rimovibile);2;Facebook Login, Xiaomi Analytics, Xiaomi OneTrack;
+com.facebook.katana;Preinstallata (rimovibile);2;Facebook Audience Network, Google AdMob;Facebook Audience Network, Google AdMob
+com.instagram.android;Preinstallata (rimovibile);2;Facebook Login, Google AdMob, Google Analytics;Google AdMob
+com.miui.calculator;Preinstallata (rimovibile);2;Xiaomi Analytics, Xiaomi OneTrack;
+com.miui.notes;Preinstallata (rimovibile);2;Facebook Login, Xiaomi Analytics, Xiaomi OneTrack;
+com.xiaomi.calendar;Preinstallata (rimovibile);2;Facebook Login, Xiaomi Ads, Xiaomi Analytics;Xiaomi Ads
+com.android.soundrecorder;Preinstallata (rimovibile);1;Facebook Login, Xiaomi OneTrack;
+com.miui.weather2;Preinstallata (rimovibile);1;Xiaomi Analytics;
+com.netflix.mediaclient;Preinstallata (rimovibile);1;Bugsnag;
+com.amazon.appmanager;Preinstallata (rimovibile);0;;
+com.miui.compass;Preinstallata (rimovibile);0;;
+com.miui.screenrecorder;Preinstallata (rimovibile);0;;
+com.xiaomi.scanner;Preinstallata (rimovibile);0;;
